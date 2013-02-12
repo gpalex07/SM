@@ -1,0 +1,6 @@
+#ifndef COMPORTEMENT_FILE_HPP
+#define COMPORTEMENT_FILE_HPP
+
+class
+
+#endif // COMPORTEMENT_FILE_HPP
